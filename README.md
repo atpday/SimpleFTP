@@ -4,6 +4,6 @@
 Written in Jul,2018
 ### Version 1.0
 <div align=center>
-<img width="660" height="200" src="https://github.com/hazyao/SimpleFTP/raw/master/demo/demo.png"/>
+<img width="660" height="200" src="https://github.com/hazyao/SimpleFTP/raw/master/demo/demo.PNG"/>
 </div>
 </br>
